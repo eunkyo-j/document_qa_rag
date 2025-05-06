@@ -4,7 +4,13 @@
 사용자가 업로드한 PDF 문서를 읽고, 자연어 질문에 대해 Hugging Face에서 제공하는 오픈소스 LLM을 활용해 정확한 답변을 생성합니다.
 
 👉 **[배포 링크 (선택사항)]**  
-👉 **[시연 영상 또는 이미지 링크 (선택사항)]**
+![Image](https://github.com/user-attachments/assets/b6cb901f-f3ff-4dff-9512-8655fef2218c)
+
+![Image](https://github.com/user-attachments/assets/52d82fca-269c-450f-9942-b4837cc9b59d)
+
+![Image](https://github.com/user-attachments/assets/a74b3351-11d9-43bd-8b6a-9b832540732d)
+
+![Image](https://github.com/user-attachments/assets/35c95a4c-6ebd-454e-9088-17f97216bc7f)
 
 ---
 
