@@ -3,7 +3,7 @@
 문서 기반 질의응답 기능을 제공하는 RAG(Retrieval-Augmented Generation) 방식의 웹 애플리케이션입니다.
 사용자가 업로드한 PDF 문서를 읽고, 자연어 질문에 대해 Hugging Face에서 제공하는 오픈소스 LLM을 활용해 정확한 답변을 생성합니다.
 
-👉 **[배포 링크 (선택사항)]**  
+
 ![Image](https://github.com/user-attachments/assets/b6cb901f-f3ff-4dff-9512-8655fef2218c)
 
 ![Image](https://github.com/user-attachments/assets/52d82fca-269c-450f-9942-b4837cc9b59d)
