@@ -29,7 +29,6 @@
 ### 🖥️ 프론트엔드
 - React + TypeScript
 - Vite – 빠른 개발 서버 환경
-- Shadcn/UI – UI 컴포넌트 라이브러리 (도입 예정 또는 부분 적용)
 - Axios – REST API 통신
 
 ### ⚙️ 백엔드
